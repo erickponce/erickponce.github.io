@@ -1,0 +1,26 @@
+{
+  "name": "erickponce.github.io",
+  "version": "0.1.0",
+  "description": "Personal webpage",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickponce/erickponce.github.io.git"
+  },
+  "keywords": [
+    "personal",
+    "personal-webpage",
+    "erickponce"
+  ],
+  "author": "Erick Ponce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erickponce/erickponce.github.io/issues"
+  },
+  "homepage": "https://github.com/erickponce/erickponce.github.io#readme",
+  "dependencies": {
+    "animate.css": "^3.6.1",
+    "flexboxgrid": "^6.3.1"
+  }
+}
